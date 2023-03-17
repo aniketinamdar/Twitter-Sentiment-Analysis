@@ -1,1 +1,1 @@
-# Twitter-Sentiment-Analysis-using-Support-Vector-Machine-
+# Twitter-Sentiment-Analysis
