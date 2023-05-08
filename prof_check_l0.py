@@ -1,3 +1,4 @@
+#testing better_profanity checker
 from better_profanity import profanity
 if __name__ == "__main__":
     dirty_text = "you piece of dog shit."
